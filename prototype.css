@@ -1,5 +1,13 @@
 .tv-promo {
   background: url('https://i.ibb.co/SnCBKMY/Component-2.png');
+      padding: 76px 40px;
 }
     
     
+. tv-promo--content h3 {
+  display:none;
+}
+
+. tv-promo--content p {
+  display:none;
+}
