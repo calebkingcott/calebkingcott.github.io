@@ -11,3 +11,7 @@
 .tv-promo--content p {
   display:none;
 }
+
+.tv-promo--cta {
+  display:none;
+}
